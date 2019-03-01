@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"unsafe"
 
-	"github.com/dchest/siphash"
+	"github.com/Beeketing/siphash"
 )
 
 // Get retrieves an element from the map under given hash key.

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"unsafe"
 
-	"github.com/dchest/siphash"
+	"github.com/Beeketing/siphash"
 )
 
 const (
