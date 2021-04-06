@@ -1,3 +1,3 @@
-module github.com/cornelk/hashmap
+module github.com/Beeketing/hashmap
 
-require github.com/dchest/siphash v1.1.0
+require github.com/Beeketing/siphash v1.1.0
